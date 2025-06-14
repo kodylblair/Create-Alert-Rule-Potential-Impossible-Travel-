@@ -87,7 +87,7 @@ SigninLogs
           Country = tostring(parse_json(LocationDetails).countryOrRegion)
 | order by TimeGenerated desc
 
----
+```
 
 ## 📌 **Flagged Accounts**
 
@@ -107,7 +107,7 @@ It was determined that the alert was **TRUE BENIGN**.
 
 - User `c6a39b587ff1ebcf3da2040b489b6319269a8fc0911ac0915a1bdd938160244b@lognpacific.com` logged into **Santa Ana** and **Pasig City, Philippines** within a **2-hour** time period, which is not uncommon.
 
-```
+`
 
 ## 🛠️ **Containment, Eradication, and Recovery**  
 
