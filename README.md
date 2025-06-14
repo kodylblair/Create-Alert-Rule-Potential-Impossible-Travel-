@@ -101,7 +101,6 @@ SigninLogs
 
 # 🔎 **Observed Findings**
 
-It was determined that the alert was **TRUE BENIGN**.
 
 - User `bc8ade461d58a18b6a0b88842a4d36c2a5417b06023345b8333d2b82b07ec965@lognpacific.com` logged into **Toronto** and **North York, Canada** within a **1-hour** time period, which is not uncommon.
 
